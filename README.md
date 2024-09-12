@@ -2,7 +2,8 @@
 
 ## In Progress
 
-* Observability-based Sensor Selection for a Cantilever Plate Attached to Rigid Body with Aerodynamic Loading [link to main issue](https://github.com/NatalieUW2/Papers/issues/1)
+* Observability-based Sensor Selection for a Cantilever Plate Attached to Rigid Body with Aerodynamic Loading
+   [link to main issue](https://github.com/NatalieUW2/Papers/issues/1) [overleaf document](https://www.overleaf.com/project/66044b8d23262550b02ca9f3)
 
 * Observability analysis, sensor selection, and data analysis for MARGE 2 
 
